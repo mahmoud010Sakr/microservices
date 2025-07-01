@@ -1,0 +1,22 @@
+{
+	"product_created": "تم إنشاء المنتج بنجاح",
+	"no_products": "لم يتم العثور على منتجات نشطة",
+	"product_retrieved": "تم استرجاع المنتج بنجاح",
+	"product_not_found": "المنتج غير موجود",
+	"product_deleted": "المنتج محذوف",
+	"all_products_retrieved": "تم استرجاع جميع المنتجات بنجاح",
+	"deleted_products_retrieved": "تم استرجاع المنتجات المحذوفة بنجاح",
+	"product_updated": "تم تحديث المنتج بنجاح",
+	"product_soft_deleted": "تم حذف المنتج بنجاح",
+	"product_restored": "تم استعادة المنتج بنجاح",
+	"tag_added": "تم إضافة العلامة",
+	"tag_removed": "تم إزالة العلامة",
+	"no_tag_provided": "لم يتم تقديم معرف علامة؛ تم إرجاع العلامات الحالية",
+	"Invalid password": "Invalid password",
+	"Login successful": "Login successful",
+	"User not found": "User not found",
+	"Products retrieved successfully": "Products retrieved successfully",
+	"Cart not found": "Cart not found",
+	"Blog not found": "Blog not found",
+	"no_products_found": "no_products_found"
+}
